@@ -14,7 +14,7 @@ It helps visualize daily water intake by letting users click small cups to fill 
 ---
 
 ## 🌐 Live Demo
-👉 [Click here to see it live](https://princesharma-afk.github.io/drink-water/)
+👉 [Click here to see it live](https://princesharma-afk.github.io/Drink-Water/)
 
 ---
 
